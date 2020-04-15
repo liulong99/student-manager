@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.stu.manage.demo.mapper.ScoreMapper">
+
+    <update id="deleteExam" parameterType="Integer">
+        update score set
+        is_valid = '0'
+        where exam_id=#{examId} and is_valid=1
+    </update>
+
+    <update id="deleteStudent" parameterType="Integer">
+        update score set
+        is_valid = '0'
+        where student_id=#{studentId} and is_valid=1
+    </update>
+
+</mapper>
