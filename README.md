@@ -11,11 +11,7 @@
 
 ​	访问localhost:8080看到如下界面表示成功
 
-![img](file:///C:\Users\liulo\AppData\Local\Temp\ksohtml\wpsE26B.tmp.jpg)
-
-
-
-
+![Aaron Swartz](https://github.com/liulong99/student-manager/blob/master/img/login.jpg?raw=true)
 
 注：以上代码及文档全归刘龙所有，未经同意不可随意转发。
 
