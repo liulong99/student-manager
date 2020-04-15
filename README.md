@@ -1,4 +1,7 @@
 # 项目名称：student-manager（学生管理系统）
+
+本人已经上传到我的 [github](https://github.com/liulong99/student-manager.git) 上，方便大家学习
+
 主要技术栈：Vue+ElementUi+SpringBoot
 
 
@@ -13,7 +16,7 @@
 
 ![Aaron Swartz](https://github.com/liulong99/student-manager/blob/master/img/login.jpg?raw=true)
 
-注：以上代码及文档全归刘龙所有，未经同意不可随意转发。
+注：以上代码及文档全归刘龙所有，可以拉取学习，未经同意不可用作商业用途。
 
 
 
