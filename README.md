@@ -8,6 +8,8 @@
 
 启动方式： 
 
+​	首先导入数据库脚本，我提前已经准备好了，首先连上你的Mysql数据库，然后建一个test库，最后直接将test.sql导入你的数据库中，然后再把student_manager_back里的/src/main/resources/application.properties里的数据库用户名、密码换成自己的；
+
 ​	后端启动：先刷新maven，然后再终端进入student_manager_back目录，找到DemoApplication启动类，运行后控制台打印端口8888表示启动成功；
 
 ​	前端启动：VsCode终端进入student_manager_front目录，先执行 npm install --registry=https://registry.npm.taobao.org 安装一些包，再输入npm run dev，控制台打印localhost:8080代表启动成功；
